@@ -1,0 +1,38 @@
+#COVID-19 Data Exploration
+
+Welcome to the COVID-19 Data Exploration project! This repository contains SQL queries used to explore COVID-19 data, focusing on various metrics such as total cases, total deaths, vaccination rates, and more.
+
+Skills Used:
+Joins, CTEs, Temp Tables, Window Functions, Aggregate Functions, Creating Views, Converting Data Types
+
+Key Queries:
+
+1. Selecting Relevant Data: Initial queries select relevant data from the dataset, filtering out null values and ordering results for clarity.
+
+2. Total Cases vs Total Deaths: Analyzes the likelihood of dying if contracting COVID-19 in a specific location, such as Germany, by calculating the percentage of deaths among total cases.
+
+3. Total Cases vs Population: Shows the percentage of the population infected with COVID-19 in a specific location, such as Germany.
+
+4. Countries with Highest Infection Rate: Identifies countries with the highest infection rates compared to their population, highlighting areas of concern.
+
+5. Countries with Highest Death Count: Lists countries with the highest death count per population, providing insights into the severity of the pandemic in different regions.
+
+6. Breakdown by Continent: Analyzes death counts per population at a continental level, revealing insights into the impact of COVID-19 across different continents.
+
+7. Global Numbers: Calculates global totals for new cases, total deaths, and death percentages.
+
+8. Total Population vs Vaccinations: Examines the percentage of the population that has received at least one COVID-19 vaccine dose.
+
+9. Using CTEs and Temp Tables: Demonstrates the use of Common Table Expressions (CTEs) and temporary tables to perform calculations and store intermediate results.
+
+10. Creating Views: Creates a view to store data for later visualizations or further analysis.
+
+Usage:
+
+Feel free to explore the SQL scripts provided in this repository to understand the data exploration process undertaken for COVID-19 data. These scripts can serve as a reference for similar data analysis tasks in your projects.
+
+Contributing:
+
+If you have any suggestions or improvements for the data exploration process, feel free to open an issue or submit a pull request. Your contributions are highly appreciated!
+
+Thank you for visiting the COVID-19 Data Exploration project repository. Stay safe and happy analyzing!
