@@ -25,7 +25,7 @@ Key Queries:
 
 9. Using CTEs and Temp Tables: Demonstrates the use of Common Table Expressions (CTEs) and temporary tables to perform calculations and store intermediate results.
 
-10. Creating Views: Creates a view to store data for later visualizations or further analysis.
+10. Creating Views: Creates a view to store data for later visualizations or further analysis.In this case tableau was used for further visualization. 
 
 Usage:
 
